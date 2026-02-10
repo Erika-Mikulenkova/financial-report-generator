@@ -1,0 +1,17 @@
+Date,Account,Amount,Currency,Text
+15/03/2024,2001,1250.75,USD,Office Rent
+22/03/2024,2002,3200.00,USD,Consulting Services
+08/03/2024,2003,875.50,USD,Equipment Purchase
+12/03/2024,2004,2100.00,USD,Software License
+18/01/2024,2001,15000.00,USD,Q1 Revenue
+25/01/2024,2002,450.00,USD,Marketing Expense
+30/01/2024,2003,8500.00,USD,Product Sales
+28/01/2024,2004,1200.00,USD,Subscription Fee
+05/02/2024,2001,22000.00,USD,Major Contract
+14/02/2024,2002,680.00,USD,Operating Costs
+20/02/2024,2003,3400.00,USD,Service Revenue
+26/02/2024,2004,18500.00,USD,Enterprise Deal
+01/01/2024,2001,50000.00,USD,Opening Balance
+01/01/2024,2002,125000.00,USD,Opening Balance
+01/01/2024,2003,75000.00,USD,Opening Balance
+01/01/2024,2004,45000.00,USD,Opening Balance
