@@ -59,10 +59,6 @@ coverage.xml
 .env
 .env.local
 
-# Output files (optional - uncomment if you don't want to commit outputs)
-# outputs/
-# *.csv (careful - this would ignore your data files!)
-
 # OS
 .DS_Store
 Thumbs.db
