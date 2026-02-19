@@ -9,7 +9,7 @@ Automated financial reporting system that processes transaction data and generat
 ## Features
 
 - **Automated Monthly Balance Calculation**: Cumulative balance tracking across 12 months
-- **Optimized Algorithm**: Iterative approach for better performance and code clarity (60% fewer processing steps)
+- **Optimized Algorithm**: Iterative approach for better performance and code clarity
 - **Comprehensive Validation**: 19 automated unit tests ensuring calculation accuracy (100% pass rate)
 - **Professional Visualizations**: 4 interactive charts for business intelligence presentation
 - **Edge Case Handling**: Manages missing transactions, account closures, and data validation
